@@ -1,15 +1,12 @@
 ﻿using Discord.Commands;
 using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Threading.Tasks;
 using Discord;
 using Flowey.Airtable;
 using Flowey.Airtable.Objects;
 using Discord.Addons.Interactive;
-using Microsoft.VisualBasic.CompilerServices;
-using System.Runtime.InteropServices.ComTypes;
-using System.Security.Cryptography.X509Certificates;
+
 
 namespace Flowey.Bot.Core.Commands
 {

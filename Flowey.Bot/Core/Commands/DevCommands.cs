@@ -10,7 +10,7 @@ using Flowey.Html;
 
 namespace Flowey.Bot.Core.Commands
 {
-    public class DevCommands : ModuleBase<SocketCommandContext>
+    class DevCommands : ModuleBase<SocketCommandContext>
     {
         [Command("userjoin")]
         public async Task UserJoinCommand()
